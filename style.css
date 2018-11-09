@@ -1,5 +1,5 @@
 #topbar {
-  font-family: arial,sans-serif;
+  font-family: arial, sans-serif;
 }
 
 
@@ -14,15 +14,9 @@
   left: 0;
   padding: 0.15rem;
   background-color: #f2f2f2;
-  font-family: arial,sans-serif;
+  font-family: arial, sans-serif;
   font-size: 15px;
   color: #666;
-}
-
-.uk {
-  position: absolute;
-  bottom: 100;
-  margin: 0 auto;
 }
 
 .alignleft {
